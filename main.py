@@ -32,3 +32,11 @@ while True:
 
     elif choice == "5":
         break 
+# Cores para o terminal
+VERDE = "\033[32m"
+AMARELO = "\033[33m"
+AZUL = "\033[34m"
+VERMELHO = "\033[31m"
+CIANO = "\033[36m"
+RESET = "\033[0m"
+NEGRITO = "\033[1m"
